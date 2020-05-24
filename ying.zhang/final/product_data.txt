@@ -1,0 +1,368 @@
+{\rtf1\ansi\ansicpg936\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset0 HelveticaNeue-Bold;\f2\fnil\fcharset134 PingFangSC-Regular;
+}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;
+\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000\c0;\cssrgb\c0\c0\c0;\csgray\c0\c0;
+\cssrgb\c100000\c100000\c100000;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh15120\viewkind0
+\pard\tx566\tx1133\tx1570\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs36 \cf0 \cb2                 PRODUCT NAME                                                              SIZE            PRICE          DETAILS
+\fs24 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx566\tx1133\tx1565\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10713\tx12683\tx14715\pardirnatural\partightenfactor0
+\cf3 \cb4 Product 1        
+\f1\b EST\'c9E LAUDER 
+\f0\b0 \expnd0\expndtw0\kerning0
+Advanced Night Repair Synchronized Recovery Complex II\kerning1\expnd0\expndtw0               50 mL                   $103                       
+\f1\b \expnd0\expndtw0\kerning0
+What it is:\'a0
+\f0\b0 A powerful serum that significantly helps reduce the look of aging.\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3                      \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3                                                                                                                   									                
+\f1\b Skin Type:
+\f0\b0 \'a0Normal, Dry, Combination, and Oily\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3 				\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3                                                                                                                 							     			     
+\f1\b Skincare Concerns:\'a0
+\f0\b0 Fine Lines and Wrinkles, Dryness, and Dullness and Uneven Texture\
+\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3 																				     
+\f1\b Formulation:\'a0
+\f0\b0 Serum\
+\
+\
+\
+\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3 \kerning1\expnd0\expndtw0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10707\tx12649\tx12681\tx14726\tx14729\pardirnatural\partightenfactor0
+\cf3 Product 2        
+\f1\b EST\'c9E LAUDER
+\f0\b0  \expnd0\expndtw0\kerning0
+Advanced Night Repair Eye Supercharged Complex\kerning1\expnd0\expndtw0                          15 mL                   $64                         
+\f1\b \expnd0\expndtw0\kerning0
+What it is:
+\f0\b0  A supercharged treatment that helps repair the visible impact of lack of sleep, UV, and pollution.\kerning1\expnd0\expndtw0 \
+\
+
+\f1\b \expnd0\expndtw0\kerning0
+																Skin Type:
+\f0\b0  Normal, Oily, Combination, and Dry\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3 																				     
+\f1\b Skincare Concerns:
+\f0\b0  Puffiness
+\f2 , 
+\f0 Fine lines and wrinkles, and Dark circles\
+\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3 																				     
+\f1\b Formulation: 
+\f0\b0 Serum\
+\
+\
+\
+\
+\pard\tx14711\pardeftab720\sl320\partightenfactor0
+\cf3 Product 3\kerning1\expnd0\expndtw0         
+\f1\b CHANEL
+\f0\b0  \expnd0\expndtw0\kerning0
+CHANCE EAU FRA\'ceCHE Eau de Toilette\kerning1\expnd0\expndtw0  
+\f1\b                                                        
+\f0\b0 100 mL                  $115                      
+\f1\b \expnd0\expndtw0\kerning0
+Scent Type:
+\f0\b0 \'a0Fresh Fruity Florals\
+\
+\pard\tx14711\pardeftab720\sl280\partightenfactor0
+\cf3 	
+\f1\b Key Notes:
+\f0\b0 \'a0Citron, Jasmine, Teakwood\
+\pard\tx14711\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx14711\pardeftab720\sl280\partightenfactor0
+\cf3 	
+\f1\b Fragrance Description:
+\f0\b0  A fresh, sparkling floral expression of CHANCE\'97a surge of energy that sweeps you into a whirlwind of 	happiness and fantasy.\
+\pard\tx14711\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\
+\
+\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx10733\tx14720\pardeftab720\sl320\partightenfactor0
+\cf3 Product 4\kerning1\expnd0\expndtw0         
+\f1\b ANASTASIA BEVERLY HILLS 
+\f0\b0 \expnd0\expndtw0\kerning0
+Modern Renaissance Eye Shadow Palette
+\f1\b \kerning1\expnd0\expndtw0                      
+\f0\b0 9.8 g                    $42                         
+\f1\b \expnd0\expndtw0\kerning0
+What it is:
+\f0\b0  An essential eyeshadow collection with 14 shades in neutral to berry tones.\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3 \kerning1\expnd0\expndtw0 \
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx12683\tx14205\tx14249\tx14303\tx14514\pardirnatural\partightenfactor0
+\cf3 Product 5        
+\f1\b KIEHL\'92S SINCE 1851
+\f0\b0 \expnd0\expndtw0\kerning0
+ Midnight Recovery Concentrate\kerning1\expnd0\expndtw0                                                    30 mL                  $50                         
+\f1\b \expnd0\expndtw0\kerning0
+What it is:
+\f0\b0 \'a0An anti-aging night serum that hydrates skin overnight for a smoother-looking complexion and a radiant glow come 												                                                                                                                       morning.\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3 																				     
+\f1\b Skin Type:\'a0
+\f0\b0 Dry\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3 																				     
+\f1\b Skincare Concerns:
+\f0\b0 \'a0Dryness, Dullness, and Uneven Texture\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3 \kerning1\expnd0\expndtw0 \
+																				     
+\f1\b \expnd0\expndtw0\kerning0
+Formulation:
+\f0\b0 \'a0Lightweight Oil\kerning1\expnd0\expndtw0 \
+\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10691\tx10702\tx12734\tx12745\tx14678\pardirnatural\partightenfactor0
+\cf3 Product 6        
+\f1\b LANC\'d4ME
+\f0\b0   \expnd0\expndtw0\kerning0
+Teint Idole Ultra Long Wear Foundation                                                    30 mL                    $47                         
+\f1\b What it is:
+\f0\b0 \'a0An oil-free, long-wearing, liquid foundation that delivers buildable coverage and leaves a natural-looking, velvety- 																	matte finish for up to 24 hours.\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3 																				     
+\f1\b Skin Type:
+\f0\b0 \'a0Normal, Dry, Combination, and Oily\
+\pard\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3 																				     
+\f1\b Formulation:
+\f0\b0 \'a0Liquid\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3 \kerning1\expnd0\expndtw0 \
+\
+\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10665\tx10731\tx12743\tx14669\pardirnatural\partightenfactor0
+\cf3 Product 7        
+\f1\b BOBBI BROWN
+\f0\b0  \expnd0\expndtw0\kerning0
+Highlighting Powder Color Pink Glow                                                  8 g                         $48                        
+\f1\b What it is:
+\f0\b0 \'a0\cf3 \cb4 \outl0\strokewidth0 \strokec3 A high-impact, light-reflective powder that gives skin shimmering, rosy highlights\cf3 \cb4 \outl0\strokewidth0 .\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3 \
+\
+\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10730\tx12779\tx14707\pardirnatural\partightenfactor0
+\cf3 \kerning1\expnd0\expndtw0 Product 8        
+\f1\b GIVENCHY 
+\f0\b0 Prisme Libre Loose Powder                                                                        14.5 mL                  $58                        
+\f1\b \expnd0\expndtw0\kerning0
+What it is:
+\f0\b0 \cb5 \'a0A bestselling shade, 01 Mousseline Pastel, that is exclusively available in a limited-edition silver case with a black lace      															 pattern.\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf3 \cb4 \kerning1\expnd0\expndtw0 \
+\
+\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10773\tx10785\tx12785\tx14710\pardirnatural\partightenfactor0
+\cf3 Product 9         
+\f1\b ARMANI BEAUTY 
+\f0\b0 Lip Maestro Liquid Matte Lipstick 405                                             6.6 mL                    $38                       
+\f1\b \expnd0\expndtw0\kerning0
+What it is:\'a0
+\f0\b0 A hydrating, matte liquid lipstick that delivers intense, velvety color with a rich and creamy texture for lips that feel as 																 luxurious as they look.\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf3 \kerning1\expnd0\expndtw0 \
+\
+\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx12800\tx14706\pardirnatural\partightenfactor0
+\cf3 Product 10       
+\f1\b JO MALONE LODON 
+\f0\b0 English Pear & Freesia Cologne                                                  100 mL                  $140                      
+\f1\b \expnd0\expndtw0\kerning0
+Scent Type:
+\f0\b0  Fruity Florals\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx12800\tx14706\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx12800\tx14706\pardeftab720\sl280\partightenfactor0
+
+\f1\b \cf3 														  Key Notes:
+\f0\b0  King William Pear, Freesia, Patchouli\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx12800\tx14706\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx12800\tx14766\pardeftab720\sl280\partightenfactor0
+
+\f1\b \cf3 													                              Fragrance Description:
+\f0\b0  Capturing the essence of autumn, the sensuous freshness of just-ripe pears is wrapped in a bouquet of 														 white freesias and mellowed by amber, patchouli, and woods for a luscious and golden olfactory sensation.\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf3 \kerning1\expnd0\expndtw0 \
+\
+\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardirnatural\partightenfactor0
+\cf3 Product 11       
+\f1\b CLINIQUE 
+\f0\b0 \expnd0\expndtw0\kerning0
+Clinique iD\'99 Custom-Blend Hydrator Collection                                         125 mL                  $39                        
+\f1\b What it is:
+\f0\b0 \'a0A revolutionary, custom-blend hydrator that gives you the power to hydrate your way.\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl280\partightenfactor0
+\cf3 																
+\f1\b Skin Type:
+\f0\b0 \'a0Normal, Dry, Combination, and Oily\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl280\partightenfactor0
+\cf3 																
+\f1\b Skincare Concerns:
+\f0\b0 \'a0Dullness and Uneven Texture, Fine Lines and Wrinkles, and Dark Spots\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl280\partightenfactor0
+\cf3 																
+\f1\b Formulation:
+\f0\b0 \'a0Lightweight Gel\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf3 \kerning1\expnd0\expndtw0 \
+\
+\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10212\tx12774\tx14783\pardirnatural\partightenfactor0
+\cf3 Product 12       
+\f1\b YVES SAINT LAURENT 
+\f0\b0 Glossy Stain Lip Color 46, 47                                                   12 mL                    $74                       
+\f1\b \expnd0\expndtw0\kerning0
+What it is:
+\f0\b0 \'a0A medium-coverage liquid lipstick that offers the megawatt shine of a lip gloss with the staying power of a lip stain.\
+\
+\
+\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\sl280\pardirnatural\partightenfactor0
+\cf3 \kerning1\expnd0\expndtw0 Product 13       
+\f1\b LA MER 
+\f0\b0 \expnd0\expndtw0\kerning0
+The Treatment Lotion                                                                                        150 mL                  $155                      
+\f1\b What it is:
+\f0\b0 \'a0A fast-absorbing treatment, that delivers hydration to visibly soften, nurture, and improve the appearance of skin\'92s 																texture and support the rest of your La Mer regimen.\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl280\partightenfactor0
+\cf3 																
+\f1\b Skin Type:
+\f0\b0 \'a0Normal, Dry, Combination, and Oily\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl280\partightenfactor0
+\cf3 																
+\f1\b Skincare Concerns:
+\f0\b0 \'a0Dryness, Fine Lines and Wrinkles, and Dullness and Uneven Texture\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl280\partightenfactor0
+\cf3 																
+\f1\b Formulation:
+\f0\b0 \'a0Rich Lotion\
+\
+\
+\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardirnatural\partightenfactor0
+\cf3 \kerning1\expnd0\expndtw0 Product 14       
+\f1\b DIRO 
+\f0\b0 \expnd0\expndtw0\kerning0
+Sauvage Edu de Toilette                                                                                         60 mL                  $77                         
+\f1\b Scent Type:
+\f0\b0  Warm Woods\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx12800\tx14706\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx12800\tx14706\pardeftab720\sl280\partightenfactor0
+
+\f1\b \cf3 														  Key Notes:
+\f0\b0  Bergamot, Pepper, Amberwood\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx12800\tx14706\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx12800\tx14766\pardeftab720\sl280\partightenfactor0
+
+\f1\b \cf3 													                              Fragrance Description:
+\f0\b0  \cb5 A radically fresh composition, Sauvage is both raw and noble. Radiant top notes burst with the juicy 														 freshness of Calabrian bergamot, while amberwood unleashes a powerfully woody trail. Sauvage is a fragrance inspired by 															 wide-open spaces under a blue sky that dominates a white-hot desert landscape.\cb4 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl280\partightenfactor0
+\cf3 \
+\
+\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx12800\tx14706\sl280\pardirnatural\partightenfactor0
+\cf3 \kerning1\expnd0\expndtw0 Product 15       
+\f1\b CLARINS 
+\f0\b0 Extra-Firming Wrinkle Control Firming Day Cream SPF 15                              50 mL                  $87                        
+\f1\b \expnd0\expndtw0\kerning0
+What it is:
+\f0\b0 \'a0A day cream that provides a complete firming action thanks to kangaroo flower extract\'97a new plant discovery 														 known for its regenerating power to visibly lift and minimize wrinkles.\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl280\partightenfactor0
+\cf3 																
+\f1\b Skin Type:
+\f0\b0 \'a0Normal, Oily, Combination, Dry
+\f2 , and Sensitive
+\f0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl280\partightenfactor0
+\cf3 																
+\f1\b Skincare Concerns:
+\f0\b0 \'a0Loss of firmness and elasticity, Fine lines and wrinkles, and Uneven skin tone\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl320\partightenfactor0
+\cf3 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10778\tx12768\tx12769\tx14768\pardeftab720\sl280\partightenfactor0
+\cf3 																
+\f1\b Formulation:
+\f0\b0 \'a0Cream\
+\
+\
+\
+\
+\
+}
